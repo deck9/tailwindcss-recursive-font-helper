@@ -1,0 +1,15 @@
+{
+    "name": "@deck9/tailwindcss-recursive-font-helper",
+    "version": "1.0.0",
+    "description": "This plugin adds utilities to control the different styling axes of the variable font Recursive",
+    "main": "src/index.js",
+    "keywords": [
+        "tailwindcss",
+        "plugin"
+    ],
+    "author": "Philipp Reinking",
+    "license": "MIT",
+    "dependencies": {
+        "tailwindcss": "^2.2.7"
+    }
+}
