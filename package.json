@@ -15,11 +15,8 @@
         "tailwindcss",
         "plugin"
     ],
-    "author": "Philipp Reinking <philipp@deck9.co>",
+    "author": "Philipp Reinking <philipp@deck9.co> (https://deck9.co)",
     "license": "MIT",
-    "publishConfig": {
-        "access": "public"
-    },
     "dependencies": {
         "tailwindcss": "^2.2.7"
     }
