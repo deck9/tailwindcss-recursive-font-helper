@@ -1,23 +1,23 @@
 {
-    "name": "@deck9/tailwindcss-recursive-font-helper",
-    "version": "1.0.0",
-    "description": "This plugin adds utilities to control the different styling axes of the variable font Recursive",
-    "main": "src/index.js",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Deck9/tailwindcss-recursive-font-helper.git"
-    },
-    "bugs": {
-        "url": "https://github.com/Deck9/tailwindcss-recursive-font-helper/issues"
-    },
-    "homepage": "https://github.com/Deck9/tailwindcss-recursive-font-helper#readme",
-    "keywords": [
-        "tailwindcss",
-        "plugin"
-    ],
-    "author": "Philipp Reinking <philipp@deck9.co> (https://deck9.co)",
-    "license": "MIT",
-    "dependencies": {
-        "tailwindcss": "^2.2.7"
-    }
+  "name": "@deck9/tailwindcss-recursive-font-helper",
+  "version": "1.0.1",
+  "description": "This plugin adds utilities to control the different styling axes of the variable font Recursive",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deck9/tailwindcss-recursive-font-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Deck9/tailwindcss-recursive-font-helper/issues"
+  },
+  "homepage": "https://github.com/Deck9/tailwindcss-recursive-font-helper#readme",
+  "keywords": [
+    "tailwindcss",
+    "plugin"
+  ],
+  "author": "Philipp Reinking <philipp@deck9.co> (https://deck9.co)",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.0.19"
+  }
 }
